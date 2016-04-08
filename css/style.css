@@ -28,6 +28,13 @@ body {
   height: 100vh;
   background-color: black;
 }
+#about p {
+  font-family: 'Open Sans';
+  font-size: 1.2em;
+  font-weight: 100;
+  line-height: 200%;
+  margin-top: 5%;
+}
 
 #portfolio {
   height: 100vh;
