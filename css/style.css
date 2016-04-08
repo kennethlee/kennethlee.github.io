@@ -31,26 +31,23 @@ body {
 
 #portfolio {
   height: 100vh;
-  background-color: #383838;
+  background-color: #1D1D1D;
 }
 
 #contact {
   height: 100vh;
-  background-color: #555555;
+  background-color: #282828;
 }
-
 .contact-name {
   font-size: 4em;
   margin-top: 20%;
   margin-right: auto;
   margin-left: auto;
 }
-
 .contact-icons {
   padding-top: 5%;
   /* border: 1px solid red; */
 }
-
 .contact-icon {
   color: #E7E7E7;
   padding: 0 20px 0 20px;
