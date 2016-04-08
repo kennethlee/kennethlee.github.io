@@ -41,12 +41,9 @@ body {
 .contact-name {
   font-size: 4em;
   margin-top: 17%;
-  margin-right: auto;
-  margin-left: auto;
 }
 .contact-icons {
   padding-top: 5%;
-  /* border: 1px solid red; */
 }
 .contact-icon {
   color: #E7E7E7;
