@@ -1,9 +1,17 @@
 body {
   font-family: 'Unica One', cursive;
+  color: #E7E7E7;
 }
 
 .navbar {
   background-color: transparent;
+  border: none;
+}
+.nav {
+  font-size: 1.5em;
+}
+.navbar-brand {
+  font-size: 1.5em;
 }
 
 #welcome {
@@ -11,6 +19,9 @@ body {
   background-image: url('../img/losangeles.jpg');
   background-attachment: fixed;
   background-position: 50% 50%;
+}
+#welcome p {
+  font-size: 1.5em;
 }
 
 #about {
@@ -29,9 +40,10 @@ body {
 }
 
 .contact-name {
-  color: #E7E7E7;
   font-size: 4em;
-  margin-top: 15%;
+  margin-top: 20%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .contact-icons {
