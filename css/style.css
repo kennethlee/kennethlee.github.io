@@ -1,3 +1,7 @@
+body {
+  font-family: 'Unica One', cursive;
+}
+
 .navbar {
   background-color: transparent;
 }
@@ -26,9 +30,8 @@
 
 .contact-name {
   color: #E7E7E7;
-  font-size: 3em;
-  margin-top: 20%;
-  border: 1px solid: blue;
+  font-size: 4em;
+  margin-top: 15%;
 }
 
 .contact-icons {
