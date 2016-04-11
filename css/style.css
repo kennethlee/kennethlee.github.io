@@ -80,3 +80,9 @@ body {
 .contact-icon:hover {
   color: #777777;
 }
+
+footer {
+  background-color: transparent;
+  color: #777777;
+  padding-left: 1em;
+}
