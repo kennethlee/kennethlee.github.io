@@ -71,15 +71,22 @@ body {
   margin-top: 17%;
 }
 .contact-icons {
-  padding-top: 5%;
+  margin-top: 5%;
 }
 .contact-icon {
   color: #E7E7E7;
-  padding: 0 20px 0 20px;
+  /* padding: 0 20px 0 20px; */
 }
 .contact-icon:hover {
   color: #777777;
 }
+.center-icon {
+  padding: 0 5% 0 5%;
+}
+
+/* .bordered { */
+/*   border: 1px solid red; */
+/* } */
 
 footer {
   background-color: transparent;
