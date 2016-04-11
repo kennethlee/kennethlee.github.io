@@ -1,5 +1,5 @@
-### My basic Bootstrap template
+### My Portfolio Site.
 
 ---
 
-Currently using v3.3.6.
+Inspired by the dark and gritty feel of Gotham City.
