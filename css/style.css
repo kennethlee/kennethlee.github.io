@@ -29,7 +29,7 @@ body {
   background-color: black;
 }
 #about p {
-  font-family: 'Open Sans';
+  font-family: 'Helvetica', sans-serif;
   font-size: 1.3em;
   font-weight: 100;
   line-height: 200%;
